@@ -1,4 +1,4 @@
-This repository contains a MATLAB implementation of a Yaw Damper system for the Boeing 747 aircraft. I used MATLAB tutorial for this project. The project focuses on modeling and analyzing the lateral-directional dynamics of the aircraft, including:
+This repository contains a MATLAB implementation of a Yaw Damper system for the Boeing 747 aircraft. I used MATLAB tutorial for this example. This one focuses on modeling and analyzing the lateral-directional dynamics of the aircraft, including:
 
 Dutch roll mode damping
 
